@@ -26,3 +26,6 @@ contains conclusions and considerations on the possibilities of further project 
 
 ###### słowa kluczowe:
 java, ekstrakcja danych, współczynniki korelacji, antyplagiat, statystyka, UML, analiza leksykalna
+
+###### keywords:
+java, data extraction, correlation coefficients, anti-plagiarism, statistics, UML, lexical analysis
