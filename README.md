@@ -13,6 +13,8 @@ podobieństw oraz zarysowano, jak się je oblicza.
 ###### słowa kluczowe:
 java, ekstrakcja danych, współczynniki korelacji, antyplagiat, statystyka, UML, analiza leksykalna
 
+
+
 # Software metrics applied to plagiarism detection of program code
 
 ###### ![alt text](https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-4x3/gb.png "flaga en") Summary [EN]:	
