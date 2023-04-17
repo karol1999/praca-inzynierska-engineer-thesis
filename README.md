@@ -1,6 +1,6 @@
-# Statystyczna analiza ofert sprzedaży nieruchomości z wykorzystaniem techniki web scraping
-**Wykorzystane technologie:** JavaScript, React, Node.js, chart.js, bootstrap, mysql, playwright
-###### ![alt text](https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-4x3/pl.png "flaga polska") Streszczenie w języku [PL]:	
+# Metryki oprogramowania w zastosowaniu do określenia samodzielności pracy programistycznej
+# Software metrics applied to plagiarism detection of program code
+###### ![alt text](https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-4x3/pl.png "flaga polska") Streszczenie [PL]:	
 Celem pracy była analiza statystyczna ofert sprzedaży nieruchomości
 z wykorzystaniem techniki web scraping. Do osiągnięcia zamierzonego rezultatu, stworzono aplikacje serwerową oraz internetową. 
 Omówiono technikę web scraping, oraz dokonano przeglądu istniejących rozwiązań, które umożliwiają gromadzenie danych ze stron
@@ -12,7 +12,7 @@ dane oraz zobaczyć wyniki ich działania w postaci listy zebranych informacji z
 przedstawienia analiz statystycznych. Zaprezentowano rezultat wykonanych prac oraz zweryfikowano responsywność działania interfejsu
 graficznego, którego test przeprowadzono na urządzeniu mobilnym. W podsumowaniu przedstawiono wnioski oraz rozważania nad 
 możliwościami dalszego rozwoju projektu.
-###### ![alt text](https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-4x3/gb.png "flaga en") Streszczenie w języku [EN]:	
+###### ![alt text](https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-4x3/gb.png "flaga en") Summary [EN]:	
 
 The purpose of the study was to perform a statistical analysis of real estate sales offers using the web 
 scraping technique. To achieve the intended result, server and web applications were created. The web scraping technique was discussed 
@@ -25,4 +25,4 @@ analysis. The result of the work was presented with verification of graphical in
 contains conclusions and considerations on the possibilities of further project development.
 
 ###### słowa kluczowe:
-analiza statystyczna, ekstrakcja danych, oferty sprzedaży nieruchomości, serwis aukcyjny, serwer, aplikacja internetowa
+java, ekstrakcja danych, współczynniki korelacji, antyplagiat, statystyka, UML, analiza leksykalna
