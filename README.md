@@ -1,17 +1,24 @@
 # Metryki oprogramowania w zastosowaniu do określenia samodzielności pracy programistycznej
 # Software metrics applied to plagiarism detection of program code
 ###### ![alt text](https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-4x3/pl.png "flaga polska") Streszczenie [PL]:	
-Celem pracy była analiza statystyczna ofert sprzedaży nieruchomości
-z wykorzystaniem techniki web scraping. Do osiągnięcia zamierzonego rezultatu, stworzono aplikacje serwerową oraz internetową. 
-Omówiono technikę web scraping, oraz dokonano przeglądu istniejących rozwiązań, które umożliwiają gromadzenie danych ze stron
-internetowych. Ukazano koncepcje rozwiązania, poprzez zdefiniowanie wymagań, przedstawienie struktury bazy danych oraz aplikacji 
-internetowej i serwerowej. Zaprezentowano również sposób działania funkcji pobierającej dane. Dokonano implementacji, która 
-obejmowała stworzenie aplikacji serwerowej wraz z mechanizmem automatycznej ekstrakcji informacji z portalu ogłoszeniowego oraz 
-ich zapisu w bazie danych. Stworzono także aplikacje internetową, za pomocą której, można dokonać konfiguracji funkcji pobierających
-dane oraz zobaczyć wyniki ich działania w postaci listy zebranych informacji z ogłoszeń. Utworzono także wykresy które posłużyły do 
-przedstawienia analiz statystycznych. Zaprezentowano rezultat wykonanych prac oraz zweryfikowano responsywność działania interfejsu
-graficznego, którego test przeprowadzono na urządzeniu mobilnym. W podsumowaniu przedstawiono wnioski oraz rozważania nad 
-możliwościami dalszego rozwoju projektu.
+W ramach pracy stworzono strukturę i wykonano implementacje programu, który na 
+podstawie obliczonych metryk oprogramowania analizuje je pod kątem zbieżności przy użyciu 
+różnych narzędzi. Aplikacja pozwala na wybór plików do analizy, obliczenie dla nich metryk 
+oprogramowania, oraz procesowania ich pod kątem szukania plagiatu przy użyciu wzoru korelacji. 
+Również przez zapis danych do plików aplikacja może posłużyć użytkownikowi tylko do liczenia 
+metryk, a potem ich użycia wedle uznania. Dodatkowo przedstawiono historię ewolucji zarówno 
+metryk i jak i urządzeń, które służyły do posługiwania się nimi w kontekście znajdywania 
+podobieństw oraz zarysowano, jak się je oblicza.
+Analizując wyniki można powiedzieć, że aplikacja działa, ale nie jest wolna od wad. Dla 
+każdej zmienionej wersji, niezależnie czy jest to bardziej lub mniej zaawansowany kod i od 
+procesowanych metryk aplikacja wykrywa plagiat. Każdy z poszczególnych wyników analizy, więcej 
+lub bardziej różni się od siebie – jest to spowodowane użyciem innych metryk, które są odrębnie 
+wydajne dla poszczególnych kodów źródłowych (a do testów używano kody, które diametralnie 
+różniły się ilością linii, jak i koncepcją). Warto mieć na uwadze, że również zmiany, które 
+wprowadzono w poszczególnych wersjach programów inaczej będą oddziaływać na metryki, a więc
+finalnie na wynik. W programie użyto różnych metryk do analizy w celu przeprowadzenia badania 
+na szeroką skalę oraz aby potencjalnie przyszłe programy, które będą testowane nie 
+skompromitowały narzędzia
 ###### ![alt text](https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-4x3/gb.png "flaga en") Summary [EN]:	
 
 The purpose of the study was to perform a statistical analysis of real estate sales offers using the web 
